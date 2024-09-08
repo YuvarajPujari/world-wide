@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "02bc",
+      "cityName": "Valderrobres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-28T22:04:42.043Z",
+      "notes": "",
+      "position": {
+        "lat": "40.94437226223041",
+        "lng": "0.1514346997299221"
+      }
+    },
+    {
+      "id": "1284",
+      "cityName": "Lles de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-31T20:19:27.991Z",
+      "notes": "",
+      "position": {
+        "lat": "42.4873607354165",
+        "lng": "1.689796671418309"
+      }
+    },
+    {
+      "id": "9f3d",
+      "cityName": "La Puebla de Valverde",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-02T18:20:45.956Z",
+      "notes": "loved it",
+      "position": {
+        "lat": "40.212440718286466",
+        "lng": "-0.9458179418281643"
+      }
+    }
+  ]
+}
